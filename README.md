@@ -22,4 +22,3 @@ Los datos utilizados en este análisis provienen de fuentes internas de la empre
 •	Ranking de Ventas / Servicios de Empleados
 
 
-[Proyecto_LaSpada.pdf](https://github.com/user-attachments/files/19045225/Proyecto_LaSpada.pdf)
