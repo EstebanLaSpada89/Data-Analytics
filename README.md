@@ -20,3 +20,6 @@ Los datos utilizados en este análisis provienen de fuentes internas de la empre
 •	Ventas totales por Sedes en cada Rubro o Familia y Servicios 
 •	Ventas realizadas por sus empleados 
 •	Ranking de Ventas / Servicios de Empleados
+
+
+[Proyecto_LaSpada.pdf](https://github.com/user-attachments/files/19045225/Proyecto_LaSpada.pdf)
